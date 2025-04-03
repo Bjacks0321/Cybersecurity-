@@ -1,5 +1,8 @@
 # 🛡️ Brittney's Cybersecurity Portfolio
 
+Welcome to my cybersecurity portfolio! This repository highlights my journey into cybersecurity, showcasing my technical skills, tools I've mastered, and projects I've completed as I transition from healthcare to cyber defense.
+
+
 🎯 **Elevator Pitch**  
 Hi, I’m Brittney. I’m transitioning into cybersecurity with a strong foundation in Python automation, SQL, and full-stack development through projects and certifications like the Google Cybersecurity Certificate.
 
