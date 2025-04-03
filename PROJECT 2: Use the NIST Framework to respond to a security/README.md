@@ -38,4 +38,4 @@ As a cybersecurity analyst, I conducted a full incident analysis and created a r
 
 ## 📂 Files in This Repository
 - `Assignments` – Completed NIST CSF-based incident response report    
-- `Supporting Documents` – Reference guide to NIST CSF functions
+- `Supporting Documents` – Folder containing scenario materials and any raw notes 
