@@ -34,4 +34,4 @@ As part of my duties as a cybersecurity analyst at a large organization, I condu
 ## 🗂️ Files in This Repository
 
 - `Assignments` – All SQL queries used in the project    
-- `supporting documents` – Table formats, Step-by-step breakdown of each query and its purpose, and lab scenario references   
+- `supporting documents` – Folder containing materials, any raw notes, and lab scenario references   
