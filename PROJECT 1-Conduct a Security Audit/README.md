@@ -20,5 +20,5 @@ Botium Toys is a small U.S.-based business that has experienced rapid growth in 
 
   ## 📂 Files in This Repository
 - `audit_scope_goals_risk_report.pdf` – The fictional IT manager’s scope and risk report  
-- `controls_and_compliance_checklist.xlsx` – My completed internal audit checklist  
+- `controls_and_compliance_checklist.pdf` – My completed internal audit checklist  
 - `controls_categories_reference.pdf` – A breakdown of control categories used in the audit  
