@@ -37,5 +37,5 @@ As a cybersecurity analyst, I conducted a full incident analysis and created a r
 - 🔍 Supporting documents: Apply the NIST CSF 
 
 ## 📂 Files in This Repository
-- `incident_report_analysis.pdf` – Completed NIST CSF-based incident response report    
+- `Assignment` – Completed NIST CSF-based incident response report    
 - `Materials` – Reference guide to NIST CSF functions
