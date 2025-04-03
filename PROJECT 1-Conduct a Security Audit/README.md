@@ -20,4 +20,4 @@ Botium Toys is a small U.S.-based business that has experienced rapid growth in 
 
   ## 📂 Files in This Repository  
 - `Assignments` – My completed internal audit checklist  
-- `Supporting Documents` - Folder containing scenario materials and raw notes   
+- `Supporting Documents` - Folder containing scenario materials and any raw notes   
