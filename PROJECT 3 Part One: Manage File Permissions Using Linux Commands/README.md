@@ -23,5 +23,5 @@ Through a series of tasks, I used Linux commands to analyze and update file perm
 
 ## 🗂️ Files in This Repository
 
-- `file_permissions_linux_template.md` – Completed version of the Linux permissions template    
+- `file_permissions_linux_template.md` – Completed version of the Linux permissions template with screenshots from lab scenarios    
 - `Supporting Documents` – Folder containing materials and raw notes  
