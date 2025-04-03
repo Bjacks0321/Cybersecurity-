@@ -18,7 +18,6 @@ Botium Toys is a small U.S.-based business that has experienced rapid growth in 
 - ✅ Controls and Compliance Checklist Template  
 - 🔐 Controls Categories Document
 
-  ## 📂 Files in This Repository
-- `audit_scope_goals_risk_report.pdf` – The fictional IT manager’s scope and risk report  
-- `controls_and_compliance_checklist.pdf` – My completed internal audit checklist  
-- `controls_categories_reference.pdf` – A breakdown of control categories used in the audit  
+  ## 📂 Files in This Repository  
+- `Assignments` – My completed internal audit checklist  
+- `Supporting Documents` - Folder containing scenario materials and raw notes   
