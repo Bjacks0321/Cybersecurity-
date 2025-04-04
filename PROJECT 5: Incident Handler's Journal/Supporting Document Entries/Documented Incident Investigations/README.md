@@ -1,31 +1,38 @@
-🔍 1. Investigate a Suspicious File
-File: Investigate a Suspicious File.pdf​
+## 🛡️ Entry 1: Documenting a Ransomware Attack
 
-Overview:
-This activity simulates an alert in a SOC environment where an employee downloads a password-protected spreadsheet that delivers a malicious payload. Using VirusTotal, you analyze the file's hash and uncover Indicators of Compromise (IoCs) such as domains, IPs, and behavioral traits. This assignment forms the basis of Entry #4 in your journal.
+### 🔍 Activity Overview  
+I analyzed a scenario where a ransomware attack hit a healthcare clinic. The attack started with phishing emails containing malicious attachments. Once opened, the ransomware encrypted the clinic’s files and displayed a ransom note. I documented the event using the 5 W’s: Who, What, When, Where, Why.
 
-Key Concepts Covered:
-SHA256 hash analysis
-VirusTotal tool usage
-Timeline of malicious execution
-Use of the Pyramid of Pain to classify IoCs
+### 🛠️ Steps Taken  
+1. Read through the scenario and noted key event details.  
+2. Opened my incident handler’s journal and logged the actual date.  
+3. Added an entry number and description.  
+4. Answered the 5 W’s based on the facts provided.  
+5. Added personal notes and thoughts about the situation.  
+6. Saved the entry for my cybersecurity portfolio.
 
-Pyramid of Pain
-File: Pyramid of Pain.pdf​
+## 🔍 Entry 4: Investigating a Suspicious File with VirusTotal and Mapping IoCs with the Pyramid of Pain
 
-Overview:
-This PowerPoint outlines the results of your VirusTotal investigation. You populate the Pyramid of Pain with specific IoCs extracted from the malicious file analysis, including:
-Hash values
-IP address (114.149.208.238)
-Domain (org.misecure.com)
-Malware name: Flagpro
+### 🔍 Activity Overview  
+In this combined activity, I investigated a file hash reported in a security alert using **VirusTotal**, then categorized the **Indicators of Compromise (IoCs)** using the **Pyramid of Pain** framework. The scenario involved a password-protected spreadsheet received via phishing, which triggered a payload after being opened.
 
-Relevance: Supports Entry #4 by mapping detected IoCs to their threat level, demonstrating your knowledge of threat hunting frameworks.
-
-🛡️2. Documenting a Ransomware Attack
-File: Documenting Ransomware Attack.pdf​
-
-Overview:
-This scenario-based exercise involves documenting a ransomware incident at a small U.S. healthcare clinic. The attack was delivered via a phishing email and caused widespread disruption.
-
-Relevance: Provides the basis for Entry #1, where you applied the 5 W’s and drafted a real-world style incident handler’s journal entry.
+### 🛠️ Steps Taken  
+1. Reviewed the incident timeline:  
+   - Employee received a phishing email  
+   - File downloaded and opened  
+   - Payload executed, creating suspicious files  
+   - Alert triggered by the IDS  
+2. I took the SHA256 hash and searched for it on VirusTotal.  
+3. Examined results across tabs:  
+   - **Detection**: Checked how many vendors flagged it as malicious  
+   - **Details**: Found related hashes (MD5, SHA1)  
+   - **Behavior**: Analyzed sandbox actions like process creation and network traffic  
+   - **Relations**: Reviewed domains and IPs contacted by the file  
+4. Determined the file was malicious based on vendor ratio and community score.  
+5. Documented IoCs in the **Pyramid of Pain.pdf**, placing each indicator in the proper category:  
+   - **Hash value** (SHA256): Identifies the file uniquely, but it is easy for attackers to change  
+   - **IP Address** (e.g., 114.149.208.238): Used by malware for communication  
+   - **Domain Name** (e.g., `org.misecure.com`): Flagged as malicious contact domain  
+   - **Network/Host Artifacts**: Evidence of file creation and HTTP requests  
+   - **TTPs**: Noted tactics like phishing and sandbox evasion behaviors  
+6. Reflected on which IoCs are most valuable to defenders and hardest for attackers to alter.
