@@ -1,10 +1,15 @@
 ## 🛡️ Entry 1: Documenting a Ransomware Attack
 
+### 📖 Scenario Summary  
+This simulated activity described a ransomware attack that affected a small U.S.-based healthcare clinic. On a Tuesday morning around 9:00 a.m., several employees discovered they could no longer access essential files like medical records. A ransom note on their computers stated that the organization’s data had been encrypted. The attackers demanded a large sum of money for a decryption key.  
+
+The investigation revealed that the attack originated from phishing emails sent to multiple employees. These emails contained malicious attachments that, once opened, deployed ransomware and locked the organization out of its critical systems. As a result, operations were halted, and external assistance was needed to respond to the incident.
+
 ### 🔍 Activity Overview  
-I analyzed a scenario where a ransomware attack hit a healthcare clinic. The attack started with phishing emails containing malicious attachments. Once opened, the ransomware encrypted the clinic’s files and displayed a ransom note. I documented the event using the 5 W’s: Who, What, When, Where, Why.
+My task was to document the incident using the structure of an incident handler’s journal entry. This helped me practice breaking down an incident clearly and professionally while identifying key threat factors using the 5 W’s: Who, What, When, Where, Why.
 
 ### 🛠️ Steps Taken  
-1. Read through the scenario and noted key event details.  
+1. Read through the scenario and note key event details.  
 2. Opened my incident handler’s journal and logged the actual date.  
 3. Added an entry number and description.  
 4. Answered the 5 W’s based on the facts provided.  
