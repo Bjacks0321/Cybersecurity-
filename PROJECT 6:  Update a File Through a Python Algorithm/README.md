@@ -12,12 +12,6 @@ This project demonstrates how Python can automate file updates to manage IP-base
 
 This ensures up-to-date access control with minimal manual effort and reduced risk of error.
 
-📚 Documents Overview
-
-Algorithm for file updates in Python.pdf
-
-Located in the main Project 6 folder, this document provides a detailed breakdown of the algorithm’s logic, code structure, and reasoning behind each step.
-
 ### 📁 Supporting Documents
 This project includes two supporting documents located in the `Supporting Documents` folder:
 - **Activity Assignment README** – A portfolio-ready breakdown of the scenario and steps taken.
