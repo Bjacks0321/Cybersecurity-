@@ -13,8 +13,10 @@ This project demonstrates how Python can automate file updates to manage IP-base
 This ensures up-to-date access control with minimal manual effort and reduced risk of error.
 
 📚 Documents Overview
+
 📘 Algorithm for file updates in Python.pdf
-Located in the Assignments folder, this PDF comprehensively explains the algorithm, including its purpose, structure, and detailed step-by-step breakdown.
+
+Located in the Assignments folder, this PDF comprehensively explains the algorithm's purpose and structure and provides a detailed step-by-step breakdown.
 
 📝 README – Update a File Through a Python Algorithm.md
 Also in the Assignments folder, this README is a polished write-up of the assignment that highlights the scenario, goals, and development process. It’s designed to be used in a professional portfolio.
