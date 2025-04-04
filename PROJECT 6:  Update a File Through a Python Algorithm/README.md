@@ -15,6 +15,7 @@ This ensures up-to-date access control with minimal manual effort and reduced ri
 📚 Documents Overview
 
 Algorithm for file updates in Python.pdf
+
 Located in the main Project 6 folder, this document provides a detailed breakdown of the algorithm’s logic, code structure, and reasoning behind each step.
 
 ### 📁 Supporting Documents
