@@ -1,5 +1,5 @@
 # Brittney Jackson  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brittney-jackson-56475432a/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/brittney-jackson-56475432a/)
 📧 bjackson21.bj@gmail.com  
 
 ---
