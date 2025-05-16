@@ -1,64 +1,98 @@
-Brittney Jackson  
-📍285 Courtney Lane, Aylett, VA 23009  
-🔗LinkedIn Profile
-✉btjackson21.bj@gmail .com  
+# Brittney Jackson  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+📧 bjackson21.bj@gmail.com  
 
-SUMMARY  
-Certified IT Support & Cybersecurity Specialist with a healthcare background and a strong foundation in system administration, threat detection, and automation. Earned both the Google IT Support and Google Cybersecurity Professional Certificates with hands-on experience in Python, Linux, networking, and SIEM tools. Proven success improving technical workflows, implementing automation in hospital systems, ensuring data compliance, and actively seeking entry-level IT or cybersecurity roles where I can grow, contribute, and enhance system security.  
+---
 
-CERTIFICATIONS  
-Google It Support Professional Certificate
- Issued May 2025 | Credential ID: 5IX2UQ4AY30I
-Google Cybersecurity Professional Certificate
- Issued March 2025 | Credential ID: C08KRBHJ0FYF
-Pharmacy Technician Certification (PTCB/NHA)
- Issued Nov 2020 – Present | Cert. No: 30145821
-Pharmacy Technician License (Commonwealth of Virginia)
- Issued Dec 2020 – Present | Lic. No: 0230036123 
+## 👩‍💻 Summary
+Certified IT Support & Cybersecurity Specialist with a healthcare background and a strong foundation in system administration, threat detection, and automation. Earned both the Google IT Support and Google Cybersecurity Professional Certificates and hands-on experience in Python, Linux, networking, and SIEM tools. Proven success improving technical workflows, implementing automation in hospital systems, ensuring data compliance, and actively seeking entry-level IT or cybersecurity roles where I can grow, contribute, and enhance system security.
 
-SKILLS  
-Cybersecurity & Technical: Python, SQL, Linux Command Line, SIEM Tools, Incident Response, Threat Analysis, Security Frameworks, Security Hardening, System Integration  
-Healthcare & Operations: Drug Diversion Monitoring, Medication Safety, Inventory Management, Workflow Optimization, Project Management, Data Analysis  
-Soft Skills: Communication, Collaboration, Problem-Solving, Adaptability  
+---
 
-TECHNICAL PROJECTS  
-Automated Medication Dispensing System, Bon Secours Memorial Regional Hospital  
-(June 24, 2024   July 24, 2024)  
-Implemented and optimized automated systems for medication dispensing 
- Coordinated with staff to integrate new technology, improving workflow, and reducing errors  
+## 📜 Certifications
+- **Google IT Support Professional Certificate** — *Issued May 2025*  
+  `Credential ID: 5XU2C4AY9J01`
+- **Google Cybersecurity Professional Certificate** — *Issued March 2025*  
+  `Credential ID: C08KRH80JYF`
+- **Pharmacy Technician Certification (PTCB/NHA)** — *Issued Nov 2020 – Present*  
+  `Cert. No: 30145521`
+- **Pharmacy Technician License (Commonwealth of Virginia)** — *Issued Dec 2020 – Present*  
+  `License No: 0230036123`
 
-Epic Rover System Implementation Guide, Bon Secours Memorial Regional Hospital 
- (August 17, 2024   August 19, 2024) 
- Developed a user guide for the Epic Rover mobile system 
- Improved medication administration accuracy and training support
+---
 
-EXPERIENCE  
-Bon Secours Memorial Regional Hospital, Mechanicsville, VA — Certified Pharmacy Technician  
-October 2021 – Present  
-Managed controlled substances, ensuring regulatory compliance and data integrity  
-Developed and implemented a comprehensive guide for Epic Rover  
-Integrated BD technologies to streamline workflows and improve data accuracy  
-Helped launch a sterile compounding pharmacy compliant with USP 797 standards  
-Implemented Omnicell systems for optimized inventory and medication management  
+## 🧠 Skills
 
-Walgreens, Mechanicsville, VA — Certified Pharmacy Technician  
-January 2019 – October 2021  
-Certified to provide vaccinations and improved patient care services  
-Handled prescriptions, inventory, and ensured regulatory compliance  
-Delivered customer service and maintained pharmacy organization  
+### 🛡️ Cybersecurity & Technical:
+- Python, SQL, Linux Command Line, SIEM Tools  
+- Incident Response, Threat Analysis, Security Frameworks  
+- Security Hardening, System Integration  
 
-Richmond City Sheriff’s Office, Richmond, VA — Sheriff Deputy  
-October 2016 – June 2019  
-Maintained jail security and enforced regulations  
-Assisted medical staff in inmate care  
-Conducted safety checks and managed emergency responses  
+### 🏥 Healthcare & Operations:
+- Drug Diversion Monitoring, Medication Safety  
+- Inventory Management, Workflow Optimization  
+- Project Management, Data Analysis  
 
-EDUCATION  
-Google IT Support Professional Certificate – Coursera (May 2025)  
-Google Cybersecurity Professional Certificate – Coursera (March 2025)  
-Associate in Computer Science – Southern New Hampshire University (April 2024)  
-Bachelor’s in Criminal Justice – Virginia Wesleyan University (May 2016)  
-High School Diploma – King William High School (June 2012)  
+### 💡 Soft Skills:
+- Communication, Collaboration, Problem-Solving, Adaptability
 
-LANGUAGES  
-English
+---
+
+## ⚙️ Technical Projects
+
+### 🔹 Automated Medication Dispensing System  
+**Bon Secours Memorial Regional Hospital** (June 24 – July 24, 2024)  
+- Implemented and optimized automated systems for medication dispensing  
+- Coordinated with staff to integrate new technology, improving workflow and reducing errors
+
+### 🔹 Epic Rover System Implementation Guide  
+**Bon Secours Memorial Regional Hospital** (August 17–19, 2024)  
+- Developed a user guide for the Epic Rover mobile system  
+- Improved medication administration accuracy and training support
+
+---
+
+## 🧑‍💼 Experience
+
+### **Bon Secours Memorial Regional Hospital – Certified Pharmacy Technician**  
+*Mechanicsville, VA | October 2021 – Present*  
+- Managed controlled substances, ensuring regulatory compliance and data integrity  
+- Developed and implemented a comprehensive guide for Epic Rover  
+- Integrated BD technologies to streamline workflows and improve data accuracy  
+- Helped launch sterile compounding pharmacy compliant with USP 797 standards  
+- Implemented Omnicell systems for optimized inventory and medication management  
+
+### **Walgreens – Certified Pharmacy Technician**  
+*Mechanicsville, VA | January 2019 – October 2021*  
+- Certified to provide vaccinations and improve patient care services  
+- Handled prescriptions, inventory, and ensured regulatory compliance  
+- Delivered customer service and maintained pharmacy organization  
+
+### **Richmond City Sheriff’s Office – Sheriff Deputy**  
+*Richmond, VA | October 2016 – June 2019*  
+- Maintained jail security and enforced regulations  
+- Assisted medical staff in inmate care  
+- Conducted safety checks and managed emergency responses  
+
+---
+
+## 🎓 Education
+- **Google IT Support Professional Certificate** — *Coursera, May 2025*  
+- **Google Cybersecurity Professional Certificate** — *Coursera, March 2025*  
+- **AS in Computer Science** — *Southern New Hampshire University, April 2024*  
+- **BS in Criminal Justice** — *Virginia Wesleyan University, May 2016*
+
+---
+
+## 📂 Projects in This Repo
+- PROJECT 1: Conduct a Security Audit  
+- PROJECT 2: Use the NIST Framework  
+- PROJECT 3: Perform User Management Tasks  
+- PROJECT 4: Apply Filters with Wireshark  
+- PROJECT 5: Analyze a Vulnerable VM  
+- PROJECT 6: Incident Handler’s Journal  
+- PROJECT 7: Automate IP Management
+
+---
+
+> 💬 *Open to entry-level opportunities in cybersecurity, IT support, or system administration roles.*
